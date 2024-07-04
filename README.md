@@ -1,6 +1,10 @@
 # Weather-App
 
-App developed for studying API implementation using [Angular](https://angular.dev/) version 15.2.11.
+Website developed for studying API implementation using [Angular](https://angular.dev/) version 15.2.11.
+
+### API
+
+Currently using [Open Weather API](https://openweathermap.org/api).
 
 ### Development server
 
