@@ -13,7 +13,7 @@ import { WeatherCardComponent } from './modules/wheater/components/weather-card/
   declarations: [
     AppComponent,
     WeatherHomeComponent,
-    WeatherCardComponent
+    WeatherCardComponent,
   ],
   imports: [
     BrowserModule,
